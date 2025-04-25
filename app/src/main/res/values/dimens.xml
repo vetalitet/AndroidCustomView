@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_line_height">12dp</dimen>
+
+    <dimen name="pin_size">24dp</dimen>
+    <dimen name="pin_text_size">5sp</dimen>
+    <dimen name="pin_padding">6dp</dimen>
+    <dimen name="pin_margin">2dp</dimen>
+
+    <dimen name="marker_body_height">20dp</dimen>
+    <dimen name="marker_triangle_height">6dp</dimen>
+    <dimen name="marker_title_text_size">14dp</dimen>
+</resources>

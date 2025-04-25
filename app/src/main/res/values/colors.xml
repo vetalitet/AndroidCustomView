@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- YourProgressView -->
+    <color name="default_inactive_progress_line_bg">#313131</color>
+    <color name="default_active_progress_line_bg">#F60A0A</color>
+    <color name="done_pin_background">#0FDA00</color>
+    <color name="todo_pin_background">#0A22C1</color>
+
+    <!-- app colors -->
+    <color name="inactive_progress_line_bg">#EFECEC</color>
+    <color name="active_progress_line_bg">#FFC107</color>
+    <color name="pin_text_color">#717171</color>
+    <color name="marker_color">#FFC107</color>
+</resources>
